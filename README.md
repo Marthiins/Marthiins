@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://user-images.githubusercontent.com/47826754/188290070-823c71df-4416-43fc-af4d-8ffc1d5e1855.png" height="20px">
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20mins-blue)
