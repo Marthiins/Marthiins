@@ -17,4 +17,32 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 124 Contributions in the Year 2022
+ > 
+> 📦 55.1 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 32 Public Repositories 
+ > 
+> 🔑 9 Private Repositories  
+ > 
+**I Mostly Code in Java** 
+
+```text
+Java                     23 repos            ███████████████████░░░░░░   76.67% 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+
+```
+
+
+
+ Last Updated on 03/09/2022 22:07:28 UTC
 <!--END_SECTION:waka-->
