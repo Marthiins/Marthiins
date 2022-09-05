@@ -23,7 +23,7 @@
   <img align="center" alt="Sergio-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="Sergio-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Sergio-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />        
-  <img align="right" alt="Sergio-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/85299065/185514627-94fcf387-edc6-4c24-88f1-b4873ccd49e9.png">
+  <img align="right" alt="Sergio-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/47826754/188357708-748fc4f4-5846-47a3-9063-ce04eeefcb8f.png">
 </div>
 
 #
