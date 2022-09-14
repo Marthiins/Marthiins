@@ -97,14 +97,14 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     24 repos            ███████████████████░░░░░░   77.42% 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68%
+Java                     25 repos            ███████████████████░░░░░░   78.12% 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38%
 
 ```
 
 
 
- Last Updated on 14/09/2022 05:10:31 UTC
+ Last Updated on 14/09/2022 06:19:04 UTC
 <!--END_SECTION:waka-->
 
