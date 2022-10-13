@@ -81,20 +81,16 @@ Sunday       20 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     3 hrs 43 mins       ████████████████████████░   98.43% 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Eclipse                  3 hrs 47 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Aspirador_de_Poh         2 hrs 12 mins       ██████████████░░░░░░░░░░░   58.34% 
-Aspirador_Zelador        51 mins             █████░░░░░░░░░░░░░░░░░░░░   22.81% 
-Zelador_Aspirador        42 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.49% 
-InteligenciaArtificial_Ja0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 47 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -109,6 +105,6 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2022 03:23:18 UTC
+ Last Updated on 13/10/2022 05:03:29 UTC
 <!--END_SECTION:waka-->
 
