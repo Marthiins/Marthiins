@@ -36,7 +36,7 @@
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -81,16 +81,23 @@ Sunday       20 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     29 mins             ██████████████████████░░░   91.15% 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.38% 
+Processing               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Eclipse                  32 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+algoritmo_genetico       13 mins             ██████████░░░░░░░░░░░░░░░   42.65% 
+Algoritmo-Genetico       12 mins             █████████░░░░░░░░░░░░░░░░   38.97% 
+DeepGeneticSnake         5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.97% 
+TimetablingGeneticAlgorit0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  32 mins             █████████████████████████   100.0%
 
 ```
 
@@ -105,6 +112,6 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2022 04:04:48 UTC
+ Last Updated on 27/10/2022 04:57:07 UTC
 <!--END_SECTION:waka-->
 
