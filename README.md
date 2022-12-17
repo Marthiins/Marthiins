@@ -36,7 +36,7 @@
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,7 +44,7 @@
 
 > 🏆 134 Contributions in the Year 2022
  > 
-> 📦 57.1 kB Used in GitHub's Storage 
+> 📦 57.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -81,16 +81,22 @@ Sunday       20 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 37 mins        ████████████████░░░░░░░░░   63.61% 
+YAML                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.54% 
+XML                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
+GitIgnore file           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.41%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 2 hrs 27 mins       ████████████████████████░   95.78% 
+Eclipse                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.22%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+restapi                  1 hr 20 mins        █████████████░░░░░░░░░░░░   52.02% 
+cliente                  1 hr 4 mins         ██████████░░░░░░░░░░░░░░░   41.83% 
+Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.15%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 33 mins       █████████████████████████   100.0%
 
 ```
 
@@ -105,6 +111,6 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2022 03:13:24 UTC
+ Last Updated on 17/12/2022 03:27:15 UTC
 <!--END_SECTION:waka-->
 
