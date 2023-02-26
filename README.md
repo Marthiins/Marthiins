@@ -36,7 +36,7 @@
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time--blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -105,6 +105,6 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/02/2023 07:27:40 UTC
+ Last Updated on 26/02/2023 07:35:48 UTC
 <!--END_SECTION:waka-->
 
