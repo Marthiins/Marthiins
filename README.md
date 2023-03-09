@@ -36,7 +36,7 @@
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -81,16 +81,19 @@ Sunday       19 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     2 hrs               █████████████████████░░░░   85.61% 
+Properties               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Eclipse                  2 hrs 20 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+course                   2 hrs 19 mins       ████████████████████████░   98.68% 
+restapi                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.32%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 20 mins       █████████████████████████   100.0%
 
 ```
 
@@ -105,6 +108,6 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/03/2023 03:13:45 UTC
+ Last Updated on 09/03/2023 03:34:47 UTC
 <!--END_SECTION:waka-->
 
