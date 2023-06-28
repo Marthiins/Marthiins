@@ -42,8 +42,6 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 61 Contributions in the Year 2023
- > 
 > 📦 63.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -105,6 +103,6 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/06/2023 17:44:43 UTC
+ Last Updated on 28/06/2023 17:52:11 UTC
 <!--END_SECTION:waka-->
 
