@@ -36,7 +36,7 @@
 #
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -79,16 +79,16 @@ Sunday                   53 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     3 hrs 49 mins       █████████████████████████   100.00 % 
+Java                     5 hrs 8 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ                 3 hrs 49 mins       █████████████████████████   100.00 % 
+IntelliJ                 5 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-screenmatch              3 hrs 49 mins       █████████████████████████   100.00 % 
+screenmatch              5 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -102,6 +102,6 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2023 03:13:28 UTC
+ Last Updated on 19/09/2023 03:24:05 UTC
 <!--END_SECTION:waka-->
 
