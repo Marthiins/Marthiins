@@ -79,16 +79,16 @@ Sunday                   53 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Java                     23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Backend                  23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -102,6 +102,6 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2024 03:12:38 UTC
+ Last Updated on 06/01/2024 03:24:12 UTC
 <!--END_SECTION:waka-->
 
