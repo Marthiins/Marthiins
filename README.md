@@ -44,6 +44,8 @@
 
 > 📦 73.7 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 32 Public Repositories 
@@ -100,6 +102,6 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/03/2024 21:07:04 UTC
+ Last Updated on 28/03/2024 21:19:33 UTC
 <!--END_SECTION:waka-->
 
